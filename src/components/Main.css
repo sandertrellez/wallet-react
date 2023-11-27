@@ -1,0 +1,62 @@
+.nombre{
+    width: 96%;
+    margin: 0 auto;
+    
+}
+
+.saldo{
+    width: 90%;
+    margin: 0 auto;
+    background-color: #006282;
+
+    border-radius: 8px;
+    padding: 6px;
+    padding-left: 20px;
+}
+
+.saldo h3, h4{
+    color: #fff;
+}
+
+.acciones{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    width: 50%;
+    margin-left: 1%;
+
+    
+}
+.btn_flex{
+    width: 100%;
+    font-size: large;
+    border: 0;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn_1{
+    background-color: #cfe3fe;
+    color: #3d64ff;
+}
+
+.btn_2{
+    background-color: #ffcfcf;
+    color: #ff3d3d;
+}
+
+.btn_3{
+    background-color: #d3eeff;
+    color: #40bbff;
+}
+
+.btn_4{
+    background-color: #efcffe;
+    color: #ef3eff;
+}
